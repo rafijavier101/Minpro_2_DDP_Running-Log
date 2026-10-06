@@ -100,7 +100,7 @@ Output:
 <img width="248" height="190" alt="TerUbah" src="https://github.com/user-attachments/assets/42f07bbe-3e2c-435a-b991-91d235f8e9bf" />
 
 4. kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk menghapus data yang sudah ada.
-   <img width="369" height="204" alt="hapuscode" src="https://github.com/user-attachments/assets/4b23a0c5-cad8-4bed-b0a3-b42b67a54c85" />
+<img width="369" height="204" alt="hapuscode" src="https://github.com/user-attachments/assets/4b23a0c5-cad8-4bed-b0a3-b42b67a54c85" />
 
 Tambahan:
 
