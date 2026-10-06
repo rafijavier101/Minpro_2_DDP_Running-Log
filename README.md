@@ -45,16 +45,58 @@ akan ada menu pilihan dan bisa memilih antara 1-6
 2. kode dibawah merupakan function yang dapat ditanggil lagi oleh barisan kode dibawahnya, berfungsi untuk menambahkan data baru.
 <img width="369" height="178" alt="tambahcode" src="https://github.com/user-attachments/assets/d2c8856c-b7e8-4419-ba17-dc9d41e0821b" />
 
-OUTPUT:
+Tambahan: 
+while True:
+        try:
+            jarak = float(input("Berapa kilometer kamu berlari? : "))
+            if jarak < 0:
+                print("JARAK LARI TIDAK VALID")
+                continue
+            break
+        except ValueError:
+            print("JARAK LARI HARUS BERUPA ANGKA")
+
+   berfungsi agar sistem tidak crash dengan cara: jika user input value selain angka pada input jarak, maka sistem akan kembali ke input jarak sampai user menginput jarak dengan format yang benar.
+
+Output:
 
 <img width="252" height="140" alt="TerTambah" src="https://github.com/user-attachments/assets/d9d5093c-86cb-40c2-b01a-43d9040304a6" />
 
 3. kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk mengubah data yang sudah ada.
 <img width="388" height="371" alt="ubahcode" src="https://github.com/user-attachments/assets/cbda1024-0fe0-4e78-ab5f-50b66ddf5d18" />
 
-OUTPUT:
+Tambahan:
+while True:
+            try:
+                pili = int(input("pilih data yang mau di ubah : ")) - 1
+                if 0 <= pili < len(rlog):
+                    hari = input("Masukkan hari baru :")
+                    lokasi = input("Masukkan lokasi baru :")
+                    while True:
+                        try:
+                            jarak = float(input("Masukkan jarak baru :"))
+                            if jarak < 0:
+                                print("JARAK TIDAK VALID")
+                                continue
+                            break
+                        except ValueError:
+                            print("MASUKKAN ANGKA YANG BENAR")
+                    rlog[pili] = (hari, lokasi, jarak)
+                    print(" DATA BERHASIL DI UPDATE")
+                    break
+                else:
+                    print("TIDAK ADA DATA")
+            except ValueError:
+                print("TIDAK ADA DATA")
+
+ berfungsi agar sistem tidak crash dengan cara: jika user menginput value idx 4 misalnya, namun running log hanya memiliki 3 data, maka user akan kembali ke input value idx dari data. jika user input value selain angka pada input jarak, maka sistem akan kembali ke input jarak sampai user menginput jarak dengan format yang benar.
+ 
+Output:
 
 <img width="248" height="190" alt="TerUbah" src="https://github.com/user-attachments/assets/42f07bbe-3e2c-435a-b991-91d235f8e9bf" />
+
+4. kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk menghapus data yang sudah ada.
+   <img width="369" height="204" alt="hapuscode" src="https://github.com/user-attachments/assets/4b23a0c5-cad8-4bed-b0a3-b42b67a54c85" />
 
 
   
