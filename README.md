@@ -39,17 +39,17 @@ akan ada menu pilihan dan bisa memilih antara 1-6
 <img width="1280" height="800" alt="Code_IqOitd5pNJ" src="https://github.com/user-attachments/assets/59d97b69-595e-4d9e-aedd-c3d0381e565a" />
 <img width="1280" height="800" alt="Code_I0KrcIvgtl" src="https://github.com/user-attachments/assets/70a8068d-eb7f-4fd3-a624-99c1d83caa95" />
 
-kode dibawa adalah data awal, username dan pw yang benar, serta library.
+1. kode dibawa adalah data awal, username dan pw yang benar, serta library.
 <img width="232" height="50" alt="data" src="https://github.com/user-attachments/assets/69e3c669-4d70-40a1-9e6d-877ec18f0073" />
 
-kode dibawah merupakan function yang dapat ditanggil lagi oleh barisan kode dibawahnya, berfungsi untuk menambahkan data baru.
+2. kode dibawah merupakan function yang dapat ditanggil lagi oleh barisan kode dibawahnya, berfungsi untuk menambahkan data baru.
 <img width="369" height="178" alt="tambahcode" src="https://github.com/user-attachments/assets/d2c8856c-b7e8-4419-ba17-dc9d41e0821b" />
 
 OUTPUT:
 
 <img width="252" height="140" alt="TerTambah" src="https://github.com/user-attachments/assets/d9d5093c-86cb-40c2-b01a-43d9040304a6" />
 
-kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk mengubah data yang sudah ada.
+3. kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk mengubah data yang sudah ada.
 <img width="388" height="371" alt="ubahcode" src="https://github.com/user-attachments/assets/cbda1024-0fe0-4e78-ab5f-50b66ddf5d18" />
 
 OUTPUT:
