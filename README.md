@@ -36,9 +36,12 @@ akan ada menu pilihan dan bisa memilih antara 1-6
   
   jika pilihan = 6  maka user akan menghentikan program
 
-  <img width="1280" height="800" alt="Code_zKU0xtkv7Z" src="https://github.com/user-attachments/assets/dca4b1e9-dcca-4417-ac46-ad1429e7a11d" />
-  <img width="1280" height="800" alt="Code_hlJdct2Hx8" src="https://github.com/user-attachments/assets/66dec739-a574-44b7-ac52-25e0e8e5b06a" />
-  <img width="1280" height="800" alt="Code_4HKb1wnFSX" src="https://github.com/user-attachments/assets/f6fbb8c7-2850-4515-bbc4-c99638d55c60" />
+  <img width="1280" height="800" alt="Code_CgAeSHhiMg" src="https://github.com/user-attachments/assets/e0d11b29-a628-4d35-96ea-f5bb6b7cbb8d" />
+  <img width="1280" height="800" alt="Code_g6JwwBgh7y" src="https://github.com/user-attachments/assets/7f87d616-a555-4881-b708-588ee75427a5" />
+  <img width="1280" height="800" alt="Code_ShsRLXyyhX" src="https://github.com/user-attachments/assets/afd6f5f8-8f40-4574-a9e2-1fe17998f301" />
+
+
+
 
   
 
