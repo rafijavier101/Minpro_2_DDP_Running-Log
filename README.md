@@ -123,12 +123,14 @@ try:
 <img width="349" height="109" alt="lihatcode" src="https://github.com/user-attachments/assets/4f956540-871c-4ab2-8845-69bdd426f167" />
 
 Output:
+
 <img width="210" height="127" alt="TerLihat" src="https://github.com/user-attachments/assets/f073de94-478d-4492-ae14-e67444178765" />
 
 6. kode dibawah berfungsi untuk mengcek apakah user menjadi role apa
 <img width="381" height="61" alt="rolepng" src="https://github.com/user-attachments/assets/62626089-be54-4001-89ed-a3e848e72610" />
 
 Output:
+
 <img width="166" height="210" alt="TerRole" src="https://github.com/user-attachments/assets/b8f5bbf9-aef4-49b8-bf36-79e643fe3ba2" />
 
 
@@ -136,6 +138,7 @@ Output:
 <img width="193" height="432" alt="menu" src="https://github.com/user-attachments/assets/5a498844-3350-45e5-bb6a-2dffc5549a3a" />
 
 Output:
+
 <img width="239" height="211" alt="TerMenu" src="https://github.com/user-attachments/assets/9e2bd99b-1b41-4ca7-9db0-4baae45dfe73" />
 
 
