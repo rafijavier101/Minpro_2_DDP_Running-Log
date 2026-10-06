@@ -46,12 +46,14 @@ kode dibawah merupakan function yang dapat ditanggil lagi oleh barisan kode diba
 <img width="369" height="178" alt="tambahcode" src="https://github.com/user-attachments/assets/d2c8856c-b7e8-4419-ba17-dc9d41e0821b" />
 
 OUTPUT:
+
 <img width="252" height="140" alt="TerTambah" src="https://github.com/user-attachments/assets/d9d5093c-86cb-40c2-b01a-43d9040304a6" />
 
 kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk mengubah data yang sudah ada.
 <img width="388" height="371" alt="ubahcode" src="https://github.com/user-attachments/assets/cbda1024-0fe0-4e78-ab5f-50b66ddf5d18" />
 
 OUTPUT:
+
 <img width="248" height="190" alt="TerUbah" src="https://github.com/user-attachments/assets/42f07bbe-3e2c-435a-b991-91d235f8e9bf" />
 
 
