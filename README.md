@@ -102,6 +102,26 @@ Output:
 4. kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk menghapus data yang sudah ada.
    <img width="369" height="204" alt="hapuscode" src="https://github.com/user-attachments/assets/4b23a0c5-cad8-4bed-b0a3-b42b67a54c85" />
 
+Tambahan:
+
+try:
+
+            hapus = int(input("pilih data yang mau dihapus : ")) - 1
+            if 0 <= hapus < len(rlog):
+                rlog.pop(hapus)
+            else:
+                print("DATA TIDAK ADA")
+        except ValueError:
+            print("MASUKKAN ANGKA YANG BENAR")
+ berfungsi agar sistem tidak crash dengan cara: jika user menginput value idx 2 misalnya, namun running log hanya memiliki 1 data, atau user menginput variabel misalnya a, maka user akan kembali ke menu utama.
+
+ Output:
+
+ <img width="190" height="360" alt="TerHapus" src="https://github.com/user-attachments/assets/73633be7-38cf-4ec5-a0ab-084944bc37f0" />
+
+ 5. kode dibawah merupakan function yang dapat dipanggil lagi oleh barisan kode dibawahnya, berfungsi untuk melihat data yang sudah ada.
+<img width="349" height="109" alt="lihatcode" src="https://github.com/user-attachments/assets/4f956540-871c-4ab2-8845-69bdd426f167" />
+
 
   
 
