@@ -25,9 +25,14 @@ jika masuk role USER:
 
 akan ada menu pilihan dan bisa memilih antara 1-6
   jika pilihan = 1 maka user akan menginput data dari running loh (Hari,Lokasi,Jarak)
+  
   jika pilihan = 2 maka user akan bisa mengubah data running log yang sudah ada. Pertama user akan ditampilkan seluruh running log yang ada, lalu user dapat memilih running log mana yang mau di ubah, setelah memilih user akan menginput data baru. jika data kosong maka akan kembali ke menu awal.
+  
   jika pilihan = 3 maka user akan bisa menghapus data running log yang ada. Pertama user akan ditampilkan seluruh running log yang ada, lalu user dapat memilih running log mana yang mau di hapus, setelah memilih data yang dipilih akan terhapus. Jika data kosong maka akan kembali ke menu awal.
+  
   jika pilihan = 4 maka user akan mendapat tampilan data running log yang sudah ada. Jika running log kosong maka akan kembali ke menu.
+  
   jika pilihan = 5 maka user akan log out dan kembali ke tampilan input username dan pw
+  
   jika pilihan = 6  maka user akan menghentikan program
 
