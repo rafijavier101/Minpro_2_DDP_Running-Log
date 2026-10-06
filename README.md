@@ -46,7 +46,9 @@ akan ada menu pilihan dan bisa memilih antara 1-6
 <img width="369" height="178" alt="tambahcode" src="https://github.com/user-attachments/assets/d2c8856c-b7e8-4419-ba17-dc9d41e0821b" />
 
 Tambahan: 
+
 while True:
+
         try:
             jarak = float(input("Berapa kilometer kamu berlari? : "))
             if jarak < 0:
@@ -66,7 +68,9 @@ Output:
 <img width="388" height="371" alt="ubahcode" src="https://github.com/user-attachments/assets/cbda1024-0fe0-4e78-ab5f-50b66ddf5d18" />
 
 Tambahan:
+
 while True:
+
             try:
                 pili = int(input("pilih data yang mau di ubah : ")) - 1
                 if 0 <= pili < len(rlog):
